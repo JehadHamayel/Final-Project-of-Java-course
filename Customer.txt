@@ -1,0 +1,4 @@
+Customer: ID:12,Mobile Number:985623,name: je , address: ra , plan: Limited
+Customer: ID:123,Mobile Number:0598230663,name: anas , address: ramallah , plan: Limited
+Customer: ID:12395205,Mobile Number:0567845128,name: ahmad , address: jenin , plan: Unlimited
+

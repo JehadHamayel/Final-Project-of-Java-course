@@ -1,0 +1,6 @@
+Movie: Code: g55,title:avatar, rating:AC, copiesAvailable:55
+Movie: Code: g56,title:IT, rating:HR, copiesAvailable:48
+Game: Code: g58,title: csGo, weight: 53.0, copiesAvailable: 84
+Game: Code: g59,title: gta, weight: 50.0, copiesAvailable: 85
+Album: Code: g60,title:Nar, artist:Ahmad, songs:nar1,nar2,nar3, copiesAvailable:82
+
